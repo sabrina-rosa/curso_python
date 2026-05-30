@@ -11,6 +11,8 @@ Pequeno jogo de charadas (mímica) para ser executado no terminal. O jogador esc
 - Ao escolher um tema, o programa sorteia um item aleatório e inicia um contador de 10 segundos.
 - Ao final do tempo, o jogador pode optar por continuar ou encerrar o jogo.
 
+![](cover.svg)
+
 ## Requisitos
 - Python 3.10+ (funciona em 3.8+, mas recomenda-se 3.10+)
 - Não há dependências externas.
